@@ -1,0 +1,2 @@
+Prefix plugins/AuPairWise/example/
+Plugin AuPairWise inputfile parameters.txt outputfile sample_brainspan
